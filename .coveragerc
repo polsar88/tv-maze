@@ -1,0 +1,6 @@
+[run]
+    branch = True
+    include = ./*.py
+    omit =
+        ,/main.py
+        ./test_*.py
